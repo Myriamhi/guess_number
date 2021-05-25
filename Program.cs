@@ -15,8 +15,6 @@ namespace NumberGuesser
 
             while (true)
             {
-
-              
             
                 Random random = new Random();
 
